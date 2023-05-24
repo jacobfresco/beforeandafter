@@ -17,7 +17,7 @@
 
 ## Installation
 
-Upload the file before-dafter.php to the plugin directory of your Wordpress installation and activate the plugin. Use the codes below to use the plugin in an article/blogpost:
+Upload the file before-after.php to the plugin directory of your Wordpress installation and activate the plugin. Use the codes below to use the plugin in an article/blogpost:
 
 ## Usage
 ### Before
